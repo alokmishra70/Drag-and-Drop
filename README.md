@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 - Drag any item from the left container and drop it into the right container.
 - The dropped item will be appended to the right container.
 - To reset the containers to their initial state, click the "Reset" button.
-- When an item is dropped, a success message will be displayed at the top of the UI.
+- When an item is dropped, a success message will be displayed on the UI.
 
 ## Contributing
 
